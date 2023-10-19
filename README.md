@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Geovanna Nicolly! 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/geovanna-nicolly-34b0ab245/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovanna-nicolly-34b0ab245/)
 
 ![GeovannaNicollyDev GitHub stats](https://github-readme-stats.vercel.app/api?username=GeovannaNicollyDev&show_icons=true&theme=radical)
 
